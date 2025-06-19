@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for instrumented libs
+lib-cov/
+
+# Coverage directory
+coverage/
+
+# Build output
+dist/
+build/
+
+# OS specific files
+.DS_Store
+Thumbs.db
