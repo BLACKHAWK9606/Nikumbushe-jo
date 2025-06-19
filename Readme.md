@@ -1,12 +1,3 @@
-# ASSIGNMENT 3
-# TASK MANAGEMENT SYSTEM REPORT
-
-**STUDENT NAME:** [Your Name]  
-**STUDENT ID:** [Your ID]  
-**COURSE ID:** CST8002  
-**COURSE NAME:** Programming Language Research Project  
-**PROFESSOR:** [Professor Name]  
-**DATE:** [Current Date]  
 
 ## Contents
 1. [Purpose](#purpose)
